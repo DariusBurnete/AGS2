@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-namespace AGS2
+﻿namespace AGS2
 {
     public struct CarInfo
     {
